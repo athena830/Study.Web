@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="Content" Runat="Server">
     <asp:HiddenField ID="hid_U_ID" runat="server" />
-    <%--    IP--%>
+    <%--IP--%>
     <asp:Label ID="lb_IP" runat="server" Visible="false"></asp:Label>
     <div class="message-container">
         <div class="messages" style="height:270px;">
