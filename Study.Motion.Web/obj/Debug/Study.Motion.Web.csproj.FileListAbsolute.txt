@@ -1,0 +1,12 @@
+D:\Practise\Study\Study.Motion.Web\bin\Study.Motion.Web.dll.config
+D:\Practise\Study\Study.Motion.Web\bin\Study.Motion.Web.dll
+D:\Practise\Study\Study.Motion.Web\bin\Study.Motion.Web.pdb
+D:\Practise\Study\Study.Motion.Web\bin\JiebaNet.Analyser.dll
+D:\Practise\Study\Study.Motion.Web\bin\JiebaNet.Segmenter.dll
+D:\Practise\Study\Study.Motion.Web\bin\Newtonsoft.Json.dll
+D:\Practise\Study\Study.Motion.Web\bin\nunit.framework.dll
+D:\Practise\Study\Study.Motion.Web\bin\Newtonsoft.Json.xml
+D:\Practise\Study\Study.Motion.Web\bin\nunit.framework.xml
+D:\Practise\Study\Study.Motion.Web\obj\Debug\Study.Motion.Web.dll
+D:\Practise\Study\Study.Motion.Web\obj\Debug\Study.Motion.Web.pdb
+D:\Practise\Study\Study.Motion.Web\obj\Debug\Study.Motion.Web.csprojResolveAssemblyReference.cache

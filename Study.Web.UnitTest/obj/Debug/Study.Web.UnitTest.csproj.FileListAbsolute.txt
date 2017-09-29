@@ -1,0 +1,13 @@
+D:\Practise\Study\Study.Web.UnitTest\bin\Debug\Study.Web.UnitTest.dll
+D:\Practise\Study\Study.Web.UnitTest\bin\Debug\Study.Web.UnitTest.pdb
+D:\Practise\Study\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.dll
+D:\Practise\Study\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.pdb
+D:\Practise\Study\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.csprojResolveAssemblyReference.cache
+C:\Practise\Study.Web\Study.Web.UnitTest\bin\Debug\Study.Web.UnitTest.dll
+C:\Practise\Study.Web\Study.Web.UnitTest\bin\Debug\Study.Web.UnitTest.pdb
+C:\Practise\Study.Web\Study.Web.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Practise\Study.Web\Study.Web.UnitTest\bin\Debug\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Practise\Study.Web\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.csprojResolveAssemblyReference.cache
+C:\Practise\Study.Web\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.csproj.CoreCompileInputs.cache
+C:\Practise\Study.Web\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.dll
+C:\Practise\Study.Web\Study.Web.UnitTest\obj\Debug\Study.Web.UnitTest.pdb
